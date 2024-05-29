@@ -1,0 +1,1 @@
+# object1-assignment-foreach-fakeapi
